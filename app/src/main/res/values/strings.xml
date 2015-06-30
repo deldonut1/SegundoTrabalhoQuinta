@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SegundoTrabalhoQuinta</string>
+    <string name="title_activity_login_activity">Login_activity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_waiting">WaitingActivity</string>
+</resources>
